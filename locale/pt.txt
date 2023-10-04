@@ -1,0 +1,64 @@
+#: locale=pt
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_E0AD6EFB_F6C3_0A77_41D6_3DAE90ACD27D.toolTip = Acesso aos quartos
+HotspotPanoramaOverlayArea_E54B5D39_F6FD_0FE8_41DA_F9A228D1D982.toolTip = Acesso aos quartos
+HotspotPanoramaOverlayArea_E0F499E8_F6C7_1691_41E6_B3F9D2578F94.toolTip = Acesso aos quartos
+HotspotPanoramaOverlayArea_E5C4E889_F6C3_36AE_41E1_A4F9DDDD1B7E.toolTip = Chave codificada
+HotspotPanoramaOverlayArea_E178B1C5_F6C3_1691_41D1_8D13EE4B0DAB.toolTip = Corredor
+HotspotPanoramaOverlayArea_D6548CF2_F743_0EBD_41CF_D3804B59BA4C.toolTip = Corredor
+HotspotPanoramaOverlayArea_E8A6ED44_F745_0FE4_41E3_D8811EB42E6C.toolTip = Cozinha
+HotspotPanoramaOverlayArea_E8707E39_F745_0D93_41E6_2161BE3A4414.toolTip = Cozinha
+HotspotPanoramaOverlayArea_E3E19E52_F6C3_0DB7_41E5_334A7E3EC698.toolTip = Lavabo
+HotspotPanoramaOverlayArea_E29DA524_F6C3_1F92_41D8_10E3DD0909AF.toolTip = Lavanderia
+HotspotPanoramaOverlayArea_D7F7CDE5_F743_0EA4_41C0_A539721EA61A.toolTip = Lavanderia
+HotspotPanoramaOverlayArea_E2A3172B_F6C5_1B97_41E3_37E1E1D051D9.toolTip = Suíte 1
+HotspotPanoramaOverlayArea_E3207F91_F6C7_0AB3_41EC_FB3A13AC2FD9.toolTip = Suíte 2
+HotspotPanoramaOverlayArea_E039597F_F6CD_3670_41B7_C545A34DE109.toolTip = Suíte 2
+HotspotPanoramaOverlayArea_E033275F_F6CE_FBB0_41C9_6D8216D3C29B.toolTip = Suíte 3
+HotspotPanoramaOverlayArea_E3CBFBAC_F6C3_0A90_41EA_5EA58E32EFEA.toolTip = Suíte 4 
+
+## Media
+
+### Image
+imlevel_E8600BD8_F747_0A90_41D0_5F8220135FEA.url = media/popup_E235E697_F6FD_3AA6_41ED_1CD9EE0218E8_pt_0_0.jpg
+imlevel_E861FBD8_F747_0A90_41E5_C35B1489C105.url = media/popup_E235E697_F6FD_3AA6_41ED_1CD9EE0218E8_pt_0_1.jpg
+imlevel_E861EBD8_F747_0A90_41E5_5C75E9D5EF5B.url = media/popup_E235E697_F6FD_3AA6_41ED_1CD9EE0218E8_pt_0_2.jpg
+imlevel_E861DBD8_F747_0A90_41E8_F955E24D67E7.url = media/popup_E235E697_F6FD_3AA6_41ED_1CD9EE0218E8_pt_0_3.jpg
+imlevel_E863EBD8_F747_0A90_41EA_11119C3AE975.url = media/popup_E235E697_F6FD_3AA6_41ED_1CD9EE0218E8_pt_0_4.jpg
+
+### Popup Image
+
+### Title
+panorama_FAC51458_F6C5_1E73_41D0_AA3D32AE0BFF.label = Acesso 1
+panorama_FAC5FF65_F6C5_0A5C_41E8_275D3AB23CF9.label = Acesso Lavanderia
+panorama_E3DC4879_F6C5_1672_41D6_E4BB3ACA411B.label = Acesso aos quartos2_
+panorama_FAC29C23_F6C5_0DD4_41E3_EFFD2C0E836B.label = Banheiro Suíte 3
+panorama_FBFB0618_F6C5_7DF4_41E6_E6E5B4F28C07.label = Banheiro Suíte 4
+panorama_FAC2D4BC_F6C5_3E2C_41D0_44E1265A9333.label = Corredor Quartos
+panorama_E3A58799_F6C5_3AB5_415F_BA1241F55896.label = Cozinha
+panorama_FAC50BA0_F6C5_0AD2_41CB_3A4DC0C6B648.label = Entrada
+panorama_FAC54CFB_F6C5_0E35_41E2_E759524A4D0C.label = Lavabo
+panorama_FAC5DE12_F6C5_0DF7_41ED_2AF6686C415F.label = Sacada
+panorama_FAC516B5_F6C5_1A3C_41EE_B8D3BB351034.label = Sala de Jantar
+panorama_FAC565A3_F6C5_7ED5_41ED_1758AA3F84B3.label = Sala_
+panorama_FAC38583_F6C5_1ED4_41E5_22670E4106D2.label = Suite 4
+panorama_FAC5F7EE_F6C5_3A2C_41E0_0A2F12FD7BB2.label = Suíte 1
+panorama_FAC5F93C_F6C5_162C_41EC_243EF19C8121.label = Suíte 1_Sacada
+panorama_E1E6F01C_F6BD_35B7_41A4_5DFF81609345.label = Suíte 1_banheiro
+panorama_FAC5B1B8_F6C5_1634_41DA_6C7E9452B6F0.label = Suíte 2
+panorama_FAC252A2_F6C5_FAD4_41A7_DF66F8F7AC76.label = Suíte 2_
+panorama_FAC5BA32_F6C5_0A37_41D2_E96860D28E5B.label = Suíte 2_Banheiro
+panorama_FAC2AB25_F6C5_0BDC_41E6_5D426D702FCA.label = Suíte 3
+panorama_FAC2D39B_F6C5_1AF4_41AB_77545A6E219C.label = Suíte 3_
+panorama_FAC2CCDA_F6C5_0E74_41E3_05753DBA3A75.label = Suíte 4 closet
+panorama_FAC50E23_F6C5_0DD4_41E6_76EF80E3C945.label = Suíte 4_
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Airó_3725
